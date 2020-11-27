@@ -1,4 +1,16 @@
 body {
     background: cyan;
-    max-width: 1140px;
+    max-width: 540px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    justify-content: center;
+    
+}
+
+body p {
+    font-style: italic;
 }
